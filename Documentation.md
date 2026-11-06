@@ -31,3 +31,36 @@ El lab proporciona al menos un PCAP, un volcado de memoria y una muestra de malw
 
 ### Comienzo
 
+### Q1
+
+Al abrir el PCAP en Wireshark, comencé por identificar a los involucrados. Navegando a Estadísticas → Endpoints, revisé los dispositivos para establecer qué máquina estaba impulsando la actividad. Un host se destacó de inmediato, generando un gran volumen de sondas de fuego rápido contra el servidor IIS, marcándolo como el origen del tráfico de reconocimiento.
+
+<img width="588" height="353" alt="image" src="https://github.com/user-attachments/assets/b9386753-98aa-466a-955a-e6cbb1dcad90" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
